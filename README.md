@@ -19,7 +19,34 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 
 **Research Article and Videographical documentation**
 ---
-[Full Detiailed article to the project →](link-to-project-folder)
---
+[Detiailed article to the project →](link-to-project-folder)
+
 [Videiography documentation of Research →](link-to-project-folder)
+
+
+Project 2: Customer Segmentation Study
+**Description:** Segmented 10,000 customers into 5 groups based on purchasing behavior.
+
+**Tools Used:** SQL, Excel, Power BI
+
+**Key Findings:**
+- VIP customers (8% of base) generated 35% of revenue
+- Recommended targeted marketing campaigns
+- Reduced churn risk by 12% through early intervention
+
+[View Project Files →](link-to-project-folder)
+
+---
+
+## Skills
+- **Data Analysis:** Excel (Advanced), Google Sheets
+- **Databases:** SQL, MySQL
+- **Visualization:** Tableau, Power BI
+- **Other:** Data cleaning, Statistical analysis, Reporting
+
+## Contact
+- 📧 Email: oluwatunlaayodeji@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/ayodejidennis](link)
+- 📊 Tableau Public: [public.tableau.com/profile/sarahchen](link)
+- Power BI: []()
 
