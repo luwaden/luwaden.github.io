@@ -17,7 +17,8 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 - Discovered high loss of interest in going to sschool
 - Created interactive dashboard for monthly tracking
 
-[Full Detiailed article to the project →](link-to-project-folder)
+**Research Article and Videographical documentation**
 ---
+[Full Detiailed article to the project →](link-to-project-folder)
 [Videiography documentation of Research →](link-to-project-folder)
 
