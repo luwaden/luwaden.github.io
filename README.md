@@ -20,5 +20,6 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 **Research Article and Videographical documentation**
 ---
 [Full Detiailed article to the project →](link-to-project-folder)
+--
 [Videiography documentation of Research →](link-to-project-folder)
 
