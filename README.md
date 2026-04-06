@@ -24,7 +24,8 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 ---
 [Detiailed article to the project →](link-to-project-folder)
 
-[![Watch Video](research-thumbnail.png)](https://youtu.be/uwe8C7K8fXY?si=4Jr8nFq6jBdnnOrp)    
+Click to watch our research videographic documentation. 
+[![Watch Video](powerbi-thumbnail.png)](https://youtu.be/uwe8C7K8fXY?si=4Jr8nFq6jBdnnOrp)    
 
 ---
 ##  Team Research Project Customer Segmentation Study
