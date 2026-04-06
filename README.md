@@ -7,7 +7,8 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 
 ## Projects
 
-### 📊 Capstone Project: Malaria effect on primary school children in Ibadan. 
+### 📊 Capstone Project: Malaria effect on primary school children in Ibadan.
+![ Capstone Research](mongo db image.png)
 **Description:** Analyzed 2 years of sales data to identify top-performing products and seasonal trends.
 
 **Tools Used:** Excel, Tableau, SQL
