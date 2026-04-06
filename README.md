@@ -1,4 +1,4 @@
-# Education Data Analyst Portfolio
+# Ayodeji Dennis, an Education Data Analyst P
 
 Welcome! I'm a data analyst passionate about turning numbers into insights.
 
