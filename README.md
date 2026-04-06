@@ -25,7 +25,8 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 
 ---
 ##  Team Research Project Customer Segmentation Study
-[research image](cousera certificates.png)
+![research image](orm image).png
+
 **Description:** Segmented 10,000 customers into 5 groups based on purchasing behavior.
 
 **Tools Used:** SQL, Excel, Power BI
