@@ -1,4 +1,4 @@
-# an Education Data Analyst 
+# Education Data Analyst 
 <p align="center">
   <img src="Ayodeji dennis head-shot.png" width="150" style="border-radius: 50%;" />
 </p>
@@ -20,11 +20,11 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 - Discovered high loss of interest in going to sschool
 - Created interactive dashboard for monthly tracking
 
-**Research Article and Videographical documentation**
+### Research Article and Videographical documentation 
 ---
 [Detiailed article to the project →](link-to-project-folder)
 
-[Videiography documentation of Research →](link-to-project-folder)
+[![Watch Video](research-thumbnail.png)](https://youtu.be/uwe8C7K8fXY?si=4Jr8nFq6jBdnnOrp)    
 
 ---
 ##  Team Research Project Customer Segmentation Study
