@@ -1,5 +1,7 @@
 # an Education Data Analyst 
-
+<p align="center">
+  <img src="Ayodeji dennis head-shot.png" width="150" style="border-radius: 50%;" />
+</p>
 Welcome! I'm a data analyst passionate about turning numbers into insights.
 
 ## About Me
