@@ -1,4 +1,4 @@
-# Ayodeji Dennis, an Education Data Analyst 
+# an Education Data Analyst 
 
 Welcome! I'm a data analyst passionate about turning numbers into insights.
 
